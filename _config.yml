@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 baseurl = "https://example.org/"
 languageCode = "en-us"
 title = "Strata"
@@ -147,3 +148,6 @@ paginate = 10
 	name = "博客预览"
 	url  = "post/"
 	weight = 0
+=======
+theme: jekyll-theme-merlot
+>>>>>>> d85e9b8edb9bea2ac3671acd8807c5869e7ac232
